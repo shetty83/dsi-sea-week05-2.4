@@ -32,7 +32,6 @@ In this lab you will combine the feature extraction pipeline that you created in
 
 [Starter code](code/starter-code/starter-code-2_4.ipynb)
 
->[Solution code](code/solution-code/solution-code-2_4.ipynb)
 
 ## Additional Resources
 
